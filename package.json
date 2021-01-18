@@ -1,6 +1,6 @@
 {
     "name": "quickredis-db",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "quickredis-db is a wrapper for the redis npm package similar to quick.db",
     "main": "index.js",
     "scripts": {
