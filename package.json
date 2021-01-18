@@ -1,0 +1,24 @@
+{
+    "name": "quickredis-db",
+    "version": "1.0.4",
+    "description": "quickredis-db is a wrapper for the redis npm package similar to quick.db",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/coolmlgplayer-js/quickredis.git"
+    },
+    "keywords": [
+        "quick.db",
+        "redis",
+        "db"
+    ],
+    "author": "coolmlgplayer-js",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/coolmlgplayer-js/quickredis/issues"
+    },
+    "homepage": "https://quickredis.js.org"
+}
