@@ -11,6 +11,8 @@ async function test() {
     await client.add('foo', 5).then(res => console.log(`add command worked! Response: ${res}`))
     await client.subtract('foo', 4).then(res => console.log(`subtract command worked! Response: ${res}`))
     await client.has('foo').then(res => console.log(`has command worked! Response: ${res}`))
+    await client.delete('foo').then(res => console.log(`Cleared testing data!`))
+
 }
 
 client.on('ready', () => {
